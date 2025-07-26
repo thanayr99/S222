@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "hhttps://github.com/thanayr99/cicd-ecom1.git",
+  "homepage": "https://thanayr99.github.io/cicd-ecom1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
